@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Wizard</class>
+ <widget class="QWizard" name="Wizard">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>597</width>
+    <height>196</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Katana IDE Setup</string>
+  </property>
+  <property name="wizardStyle">
+   <enum>QWizard::NStyles</enum>
+  </property>
+  <widget class="QWizardPage" name="wizardPage3">
+   <property name="title">
+    <string>Welcome</string>
+   </property>
+   <property name="subTitle">
+    <string>Welcome To Setup Wizard for Katana IDE on Windows</string>
+   </property>
+  </widget>
+  <widget class="QWizardPage" name="wizardPage">
+   <property name="title">
+    <string>OpenSource and Free</string>
+   </property>
+   <property name="subTitle">
+    <string>Katana IDE is OpenSource, PowerFull, Free and Requires Lowest Hardware (2GB Ram, 2GHz CPU - its Tested and Writed on a 2GB Ram, Pentium Dual-Core E5700 3.01GHz System)</string>
+   </property>
+  </widget>
+  <widget class="QWizardPage" name="wizardPage1">
+   <property name="minimumSize">
+    <size>
+     <width>622</width>
+     <height>102</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>622</width>
+     <height>102</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="accessibleName">
+    <string/>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="title">
+    <string>Do you Wana To Install?</string>
+   </property>
+   <property name="subTitle">
+    <string extracomment="about">If You Wana to install Please click on Next   -  Else click on Cancel </string>
+   </property>
+   <attribute name="pageId">
+    <string notr="true">first</string>
+   </attribute>
+  </widget>
+  <widget class="QWizardPage" name="wizardPage2">
+   <property name="title">
+    <string>a Command Prompt For Installer has Been Opened</string>
+   </property>
+   <property name="subTitle">
+    <string>a Command Prompt For Installer Has Been Opened to Install the Katana (Do Not Close The Command Prompt) Click on finish</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
