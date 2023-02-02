@@ -50,26 +50,47 @@ ____6. Test it and enjoy
 
 # Feature List
 ____________________
+
 __ Get Clipboard Data
+
 __ Compile the Python Source file with Auto-Py-To-EXE
+
 __ Install PIP Package with GUI
+
 __ Create Virtual Enviroment
+
 __ Support Of Extensions
+
 __ Run Codes
+
 __ Theme's
+
 __ Katana Project Create and Open (Like Visual Studio Solution File)
+
 __ Console with Support of 3 Command Style (1.Windows, 2.Bash, 3.csh)
+
 ____________________
+
 # Coming Soon Features
+
 ____________________
+
 __ Extension Load API
+
 __ Treeview For Projects
+
 __ Example's
+
 __ Katana Notebook (an IDE for Jupyter)
+
 __ A.I. Creation Support
+
 __ Voice Assistant
+
 __ a Developer Assistant Powered By ChatGPT
+
 ____________________
+
 # TODO List
 
 1.add Treeview to Project view in IDE
