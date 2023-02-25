@@ -119,3 +119,18 @@ Katana IDE Have 809 Example files of Python in C.L.I & G.U.I And Frameworks like
 1.add Treeview to Project view in IDE
 
 2.add New Theme's and Optimize the UI
+
+
+# Big Update Preview (silver_backpack)
+![Capture_2023_02_25_16_02_42_382](https://user-images.githubusercontent.com/115403383/221357020-f1d954db-fac5-4727-892c-06a913a77919.png)
+## Silver Backpack Update -Beta.23.04-
+
+## Upload Date : 2023/04/1
+
+### Options :
+
+### Hotbird Connected (goto Special Features)
+
+### a New UX/UI (Sun Valley UI)
+
+### you can see other features in katana
