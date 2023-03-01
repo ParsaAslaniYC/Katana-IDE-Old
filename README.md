@@ -2,7 +2,7 @@
 
 # Katana-IDE
 
-a Simple IDE For Python (maybe C/C++/JavaScript/Java/HTML/...) in AlphaRelease (lots of bug's)
+a Simple IDE For Python (maybe C/C++/JavaScript/Java/HTML/...) in Beta.23.04
 
 # OpenSource
 
@@ -134,3 +134,9 @@ Katana IDE Have 809 Example files of Python in C.L.I & G.U.I And Frameworks like
 ### a New UX/UI (Sun Valley UI)
 
 ### you can see other features in katana
+
+# a Overhull in Next:
+
+maybe The Katana IDE Rewrited in XAML GUI
+
+If Rewrited Katana IDE GUI will be Very Beautiful
