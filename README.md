@@ -1,8 +1,7 @@
-![Capture_2023_02_25_16_02_42_382](https://user-images.githubusercontent.com/115403383/221357020-f1d954db-fac5-4727-892c-06a913a77919.png)
+![welcome_logo](https://user-images.githubusercontent.com/115403383/224926104-3f9fc7e2-49ec-4885-9708-b1b0251822f9.png)
 
-# Katana-IDE
-
-a Simple IDE For Python (maybe C/C++/JavaScript/Java/HTML/...) in Beta.23.04
+# Katana IDE Classic
+a Powerfull IDE Speacily For Python and Youze with Powerfull Features Like Sync Projects in Other PC or Phones
 
 # OpenSource
 
