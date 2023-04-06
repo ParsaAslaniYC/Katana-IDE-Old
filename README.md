@@ -91,14 +91,6 @@ __ Support of Buildozer in Any Platform {Status ( In Development )}
 
 __ a Developer Assistant Powered By ChatGPT {Status( X )}
 
-__ Windows Enviroment For Linux {Status ( Completed )}
-
-__ Linux Enviroment For Windows {Status ( Completed )}
-
-__ Android Enviroment For Any Platform {Status ( Completed )}
-
-__ iOS Enviroment For Any Platform {Status ( N/A )}
-
 ____________________
 
 # Special Features
