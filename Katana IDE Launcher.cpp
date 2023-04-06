@@ -5,7 +5,6 @@ int main()
 {
 	//ARGS Will add in next update
 	cout << "Katana IDE Launcher v_0.1_alphaRelease\n";
-	cout << "DON'T WHRITE BAD CODES\n\n";
 	cout << "Output Will Printed into this Window : \n\n";
 	ifstream ifile;
 	ifile.open("usr_data\\launched.dat");
